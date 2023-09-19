@@ -23,10 +23,6 @@
 
 ###
 
-<img align="right" height="204" src="https://media.tenor.com/NQfq1liFH-8AAAAM/byuntear-sad.gif"  />
-
-###
-
 <div align="left">
   <a href="https://discord.gg/vRe4CgM9" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
