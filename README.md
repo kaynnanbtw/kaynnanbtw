@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kaynnan and I'm a CS Student, from Brazil.</h2>
+<h2 align="left">Hi 👋! My name is Kaynnan and I'm an undergraduate CS Student, from Brazil.</h2>
 
 ###
 
